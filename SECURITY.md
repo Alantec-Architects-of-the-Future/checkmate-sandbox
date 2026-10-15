@@ -23,4 +23,4 @@ We take system integrity and cognitive security seriously. If you discover a sec
 - **Fix Deployment:** Priority hotfix on test nodes prior to production merge.
 
 ---
-Alantec - Arquitetos do Futuro.
+Alantec - Architects of the Future
