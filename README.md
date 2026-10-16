@@ -40,5 +40,5 @@ Transforming chaos into power. Operating at 4K high definition; we engineer the 
 
 💖 Action: If this architecture adds value to your journey, consider starring our repositories and supporting us through sponsorships to help accelerate the future of open-source engineering.
 
-Alantec - Architects of the Future
+Alantec - Architects of the Future.
 
